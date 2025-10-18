@@ -13,12 +13,12 @@ export class AppController {
     return {
       status: "success",
       user: {
-        name: "",
-        email: "test01@gmail.com",
+        name: "Adebisi Mayowa",
+        email: "mayobami49@gmail.com",
         stack: "Nestjs"
       },
       timestamp: now.toISOString(),
-      fact 
+      fact
     }
   }
 }
