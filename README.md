@@ -38,7 +38,7 @@ src/
 
 ###  Clone the Repository
 
-- git clone https://github.com/Admayah/hng13-user-profile.git)
+- git clone https://github.com/Admayah/hng13-user-profile.git
 - cd user-profile-api
 - npm install
 - npm run start:dev
@@ -46,8 +46,3 @@ src/
 ## Usage
 
 GET /me
-
-
-
-
-
