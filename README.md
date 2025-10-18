@@ -2,7 +2,7 @@
 
 # NestJS USER PROFILE API
 
-A simple **NestJS** application that fetches random cat facts from the [Cat Fact API](https://catfact.ninja/fact).  
+A simple **NestJS** application for user profile and fetches random cat facts from the [Cat Fact API](https://catfact.ninja/fact).  
 This project demonstrates best practices for using **HttpService**, **RxJS Observables**, and **controllers/services structure** in NestJS.
 
 ---
@@ -36,7 +36,7 @@ src/
 
 ## ⚙️ Installation
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 
 - git clone https://github.com/Admayah/hng13-user-profile.git)
 - cd user-profile-api
